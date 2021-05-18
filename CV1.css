@@ -1,0 +1,126 @@
+/* Body */
+body{
+     margin: 0px;
+}
+
+/* La navbar */
+
+.navbar1{
+    position: fixed;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.ul1{
+    padding-left: 2px;
+    font-size: 22px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.ul1 a{
+    text-decoration: none;
+    color: whitesmoke;
+    text-shadow: 1px 1px 0px black;
+    letter-spacing: 2px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin: 0 20px;
+}
+
+a:hover{
+    background-color: rgb(209, 140, 49);   
+    }
+
+    /* Header 1 */
+    .header1{
+        padding-top: 200px;
+        padding-bottom: 200px;
+        background-image: url("DeskB.jpg");
+    }
+
+    .TITLE{
+        text-align: center;
+        color: whitesmoke;
+        background: linear-gradient(to right top, rgba(255, 255, 255, 0.3), rgba(110, 109, 109, 1.5));
+        text-shadow: 1px 2px 0px black;
+    }
+
+    /* Header 2 */
+    .header2{
+        padding-top: 2px;
+        letter-spacing: 2px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+        text-align: center;
+        color: whitesmoke;
+        background: black;
+    }
+
+    .header2 h1{
+        margin: 0;
+    }
+
+
+.competences{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+    background-image: url("backgroundcompetence.jpg");
+}
+
+.gauche{
+    padding: 150px;
+    border: solid 2px;
+    background-color: whitesmoke;
+}
+
+.droite{
+    padding: 150px;
+    border: solid 2px;
+    background-color: whitesmoke;
+}
+
+/* Contact */
+
+.header3{
+    padding-top: 2px;
+    padding-bottom: 1px;
+    letter-spacing: 2px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    color: whitesmoke;
+    background: black;
+     }
+
+     .contact{
+         background-color: rgb(168, 164, 164);
+         padding-top: 7px;
+     }
+
+     .contact label{
+         color: bisque;
+     }
+    .email{
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+    .email label{
+        display: block;
+    }
+
+    .Message textarea{  
+        width: 375px;
+        height: 125px;
+       }
+
+       textarea{
+           resize: none;
+       }
+       
+       .Message label{
+           display: block;
+       }

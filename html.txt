@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="CV1.css" />
+    <title>CV Julien V | Dev Web Full-Stack</title>
+    <body>
+        <nav class="navbar1">
+            <ul class="ul1">
+                <a href="Compétences">Compétences</a>
+                <a href="Projets">Projets</a>
+                <a href="Parcour">Parcour</a>
+                <a href="Moi">Moi</a>
+                <a href="Contact">Contact</a>
+            </ul>
+        </nav>
+     <header class="header1">
+            <h1 class="TITLE">Bienvenu <BR>Je suis Julien, Developpeur junior a la recherche d'un CDI en tant que ... developpeur haha</BR></h1>
+    </header>
+    <div class="header2">
+        <h1>Compétences</h1>
+    </div>
+    <div class="competences">
+        <div class="gauche">
+            <h2>Hard skill</h2>
+            <ul>
+                <li>HTML</li>
+                <Li>CSS</Li>
+                <Li>PHP</Li>
+            </ul>
+        </div>
+        <div class="droite">
+            <h2>Soft skill</h2>
+            <ul>
+                <li>simpa</li>
+            </ul>
+        </div>
+    </div>
+
+
+    </body>
